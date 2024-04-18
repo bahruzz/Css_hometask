@@ -1,0 +1,43 @@
+img{
+    width: 150px;
+    height: 100px;
+}
+
+.navbar{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+    height: 100px;
+}
+
+
+.navbar .nav-items ul{
+    list-style: none;
+    display: flex;
+    margin-right: 55px;
+    margin-top: 45px;
+}
+
+.navbar .nav-items ul li{
+    margin-left: 10px;
+    height: 130px;
+   
+
+}
+
+.navbar .nav-items ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 555;
+  
+   
+}
+
+header{
+    background-color: green;
+    background-position: 50%;
+}
+
+
